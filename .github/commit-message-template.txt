@@ -1,0 +1,6 @@
+<!-- Title in imperative, e.g. feat: add user login -->
+<type>(<scope>): <subject>
+
+<!-- body, if needed -->
+
+<!-- footer, e.g. Closes #123 -->
